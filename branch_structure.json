@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-860-perf-static-content-pages-learn-risk-verify-are",
+    "fix/issue-870-fix-emailauthmodal-says-a-magic-link-was-sent",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-860-perf-static-content-pages-learn-risk-verify-are": "main",
+    "fix/issue-870-fix-emailauthmodal-says-a-magic-link-was-sent": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-860-perf-static-content-pages-learn-risk-verify-are",
+    "fix/issue-870-fix-emailauthmodal-says-a-magic-link-was-sent",
+    "origin"
+  ]
+}
